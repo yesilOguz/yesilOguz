@@ -2,7 +2,7 @@
 - 😊 I can write code in a lot of programming language like c++, c#, python, ruby, ...
 - 🤖 Please look my [Kaggle](https://www.kaggle.com/ouzyeil)
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning machine learning, deep learning and more
+- 🌱 I’m currently learning machine learning, deep learning, game development and more
 - 📫 You can send mail to me :) => oguzyesil17[at]gmail.com
 
 <!---
