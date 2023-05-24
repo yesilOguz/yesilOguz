@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Oğuz
-- 😊 I can write code in a lot of programming language like c++, c#, c, python, go, ruby, ...
+- 😊 I can write code in a lot of programming language like c++, c#, python, ruby, ...
+- 🤖 Please look my [Kaggle](https://www.kaggle.com/ouzyeil)
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning machine learning, deep learning and more
 - 📫 You can send mail to me :) => oguzyesil17[at]gmail.com
