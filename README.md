@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Oğuz
-- 😊 I can write code in a lot of programming language like c++, c#, python, ruby, ...
-- 🤖 Please look at my [Kaggle](https://www.kaggle.com/ouzyeil)
-- 🎮 Please look at my [Itch.io](https://oguzyesil.itch.io)
+- 😊 I am trying to professionalise in java and spring
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning machine learning, deep learning, game development and more
+- 🌱 I’m currently learning Java, Spring, Hibernate and more
 - 📫 You can send mail to me :) => oguzyesil17[at]gmail.com
 
 <!---
