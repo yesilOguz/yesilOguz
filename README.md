@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Oğuz
-- 😊 I am trying to professionalise in java and spring
+- 😊 I am a Software Engineer
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning Java, Spring, Hibernate and more
 - 📫 You can send mail to me :) => oguzyesil17[at]gmail.com
 - 🧑🏻‍💻 look at my [linkedin](https://www.linkedin.com/in/oguzyesil/)
 <!---
