@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuz</h1>
 <h3 align="center">A Software Engineer who enjoys coding backend and mobile project from Turkey</h3>
 
-- 🔭 I’m currently working on [Ganesha](https://github.com/yesilOguz/ganesha)
+- 🔭 I’m currently working on [Ganesha](https://github.com/yesilOguz/ganesha) - [Ganesha- Mobile](https://github.com/yesilOguz/ganesha-mobile)
 
 - 📫 How to reach me **oguzyesil17@gmail.com**
 
