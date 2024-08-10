@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **oguzyesil17@gmail.com**
 
-- ⚡ Fun fact **Some people believe I have a super power for detect errors**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oguzyesil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzyesil" height="30" width="40" /></a>
